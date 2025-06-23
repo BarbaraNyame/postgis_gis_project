@@ -21,28 +21,28 @@ It demonstrates how to:
 
 ## 📷 Screenshots
 
-### 🗺️ Map View in QGIS  
+       🗺️ Map View in QGIS  
 Visualizing the Kumasi sub-metros (polygons) and police stations (points) in QGIS.
 
 ![Map View](screenshots/map_view.png)
 
 ---
 
-### 🔗 QGIS PostGIS Database Connection  
+       🔗 QGIS PostGIS Database Connection  
 Live database connection to PostGIS within the QGIS Browser Panel.
 
 ![QGIS Browser Connection](screenshots/qgis_browser_connection.png)
 
 ---
 
-### 📑 Proximity Query Results  
+       📑 Proximity Query Results  
 Proximity query result showing police stations within 100 meters of sub-metros.
 
 ![Proximity Query Results](screenshots/proximity_query_results.png)
 
 ---
 
-## 📑 SQL Queries  
+       📑 SQL Queries  
 All SQL scripts used in this project are available in the `SQL/` directory:
 - `police_stations_in_submetros_intersects.sql`
 - `police_stations_near_submetros_proximity.sql`
